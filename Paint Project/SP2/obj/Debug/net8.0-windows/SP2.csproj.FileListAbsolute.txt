@@ -1,0 +1,16 @@
+C:\Users\dadoc\OneDrive\Documents\IT-145\Projects\SP2\SP2\bin\Debug\net8.0-windows\SP2.exe
+C:\Users\dadoc\OneDrive\Documents\IT-145\Projects\SP2\SP2\bin\Debug\net8.0-windows\SP2.deps.json
+C:\Users\dadoc\OneDrive\Documents\IT-145\Projects\SP2\SP2\bin\Debug\net8.0-windows\SP2.runtimeconfig.json
+C:\Users\dadoc\OneDrive\Documents\IT-145\Projects\SP2\SP2\bin\Debug\net8.0-windows\SP2.dll
+C:\Users\dadoc\OneDrive\Documents\IT-145\Projects\SP2\SP2\bin\Debug\net8.0-windows\SP2.pdb
+C:\Users\dadoc\OneDrive\Documents\IT-145\Projects\SP2\SP2\obj\Debug\net8.0-windows\SP2.Form1.resources
+C:\Users\dadoc\OneDrive\Documents\IT-145\Projects\SP2\SP2\obj\Debug\net8.0-windows\SP2.csproj.GenerateResource.cache
+C:\Users\dadoc\OneDrive\Documents\IT-145\Projects\SP2\SP2\obj\Debug\net8.0-windows\SP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dadoc\OneDrive\Documents\IT-145\Projects\SP2\SP2\obj\Debug\net8.0-windows\SP2.AssemblyInfoInputs.cache
+C:\Users\dadoc\OneDrive\Documents\IT-145\Projects\SP2\SP2\obj\Debug\net8.0-windows\SP2.AssemblyInfo.cs
+C:\Users\dadoc\OneDrive\Documents\IT-145\Projects\SP2\SP2\obj\Debug\net8.0-windows\SP2.csproj.CoreCompileInputs.cache
+C:\Users\dadoc\OneDrive\Documents\IT-145\Projects\SP2\SP2\obj\Debug\net8.0-windows\SP2.dll
+C:\Users\dadoc\OneDrive\Documents\IT-145\Projects\SP2\SP2\obj\Debug\net8.0-windows\refint\SP2.dll
+C:\Users\dadoc\OneDrive\Documents\IT-145\Projects\SP2\SP2\obj\Debug\net8.0-windows\SP2.pdb
+C:\Users\dadoc\OneDrive\Documents\IT-145\Projects\SP2\SP2\obj\Debug\net8.0-windows\SP2.genruntimeconfig.cache
+C:\Users\dadoc\OneDrive\Documents\IT-145\Projects\SP2\SP2\obj\Debug\net8.0-windows\ref\SP2.dll
